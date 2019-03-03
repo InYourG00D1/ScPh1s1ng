@@ -98,7 +98,7 @@ then
 clear
 echo "Wait Bro"
 cd menu
-mv -f Bundle.zip /sdcard
+mv -f bundle.zip /sdcard
 echo $red "DoneBosQ"
 echo $green "Silahkan Cek Di Folder/file"
 fi
