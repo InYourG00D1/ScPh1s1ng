@@ -182,7 +182,7 @@ cd menu
 mv -f Ml.zip /sdcard
 echo $red "DoneBosQ";
 echo $green "Silahkan Cek Di Folder/file";
-echo $red "[!] File/Folder Name Ml.zip"
+echo $red "[!] File/Folder Name Ml.zip";
 fi
 
 if [ $gmt = 5 ]
