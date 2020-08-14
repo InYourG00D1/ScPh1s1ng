@@ -267,7 +267,7 @@ cd menu
 mv -f viral2.zip /sdcard
 echo $red "DoneBosQ";
 echo $green "Silahkan Cek Di Folder/file";
-echo $red "[!] File/Folder Name viral2.zip"
+echo $red "[!] File/Folder Name viral2.zip";
 fi
 
 if [ $gmt = 10 ]
